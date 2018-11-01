@@ -17,7 +17,7 @@ Detta är en liten snabbguide med tips och tricks när du utvecklar ditt spel. J
 * [Mina förslag](#förslag-à-la-p1xelher0)
   * [Nice2Have](#nice2have-%EF%B8%8F)
   * [Fysik](#fysik-%EF%B8%8F)
-  * [Annat](#annat-)
+  * [Annat](#annat-%EF%B8%8F)
   * [Overkill](#overkill-men-kul-entity-component-system-)
 
 
