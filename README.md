@@ -9,20 +9,23 @@ Detta är en liten snabbguide med tips och tricks när du utvecklar ditt spel. J
 
 ---
 
-## Mitt Projekt
+**Table of Contents**
+
+* [Mitt projekt](#mitt-projekt-)
+* [Installera bibliotek](#installera-bibliotek-)
+* [Mina förslag](#förslag-à-la-p1xelher0)
+  * [Awesome-lista](#awesome-lista-)
+  * [Nice2Have](#nice2have-%EF%B8%8F)
+  * [Fysik](#fysik-%EF%B8%8F)
+  * [Annat](#Annat)
+  * [Overkill](#overkill-men-kul-entity-component-system-)
+
+
+### Mitt Projekt
 Här är en länk till mitt nuvarande spel som jag tänkt återuppliva och vidareutveckla under spelsylten: [love2d-platformer](https://github.com/p1xelHer0/love2d-platformer)
 
 ---
 
-
-**Table of Contents**
-
-* [Installera bibliotek](#Intallera)
-* [Awesome-lista](#Awesome-lista)
-* [Nice2Have](#Nice2Have)
-* [Annat](#Annat)
-
----
 ### Installera bibliotek 🛠
 
 Jag själv kommer från JavaScript-världen och är van att installera saker via [npm](https://www.npmjs.com/). Lua har något liknande vid namn [LuaRocks](https://luarocks.org/) men jag har själv inte använt det.
