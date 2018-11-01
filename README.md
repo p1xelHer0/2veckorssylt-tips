@@ -21,7 +21,7 @@ Detta är en liten snabbguide med tips och tricks när du utvecklar ditt spel. J
   * [Overkill](#overkill-men-kul-entity-component-system-)
 
 
-### Mitt Projekt
+### Mitt Projekt 👾
 Här är en länk till mitt nuvarande spel som jag tänkt återuppliva och vidareutveckla under spelsylten: [love2d-platformer](https://github.com/p1xelHer0/love2d-platformer)
 
 ---
