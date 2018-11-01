@@ -13,11 +13,11 @@ Detta är en liten snabbguide med tips och tricks när du utvecklar ditt spel. J
 
 * [Mitt projekt](#mitt-projekt-)
 * [Installera bibliotek](#installera-bibliotek-)
+* [Awesome-lista](#awesome-lista-)
 * [Mina förslag](#förslag-à-la-p1xelher0)
-  * [Awesome-lista](#awesome-lista-)
   * [Nice2Have](#nice2have-%EF%B8%8F)
   * [Fysik](#fysik-%EF%B8%8F)
-  * [Annat](#Annat)
+  * [Annat](#annat-)
   * [Overkill](#overkill-men-kul-entity-component-system-)
 
 
@@ -30,7 +30,7 @@ Här är en länk till mitt nuvarande spel som jag tänkt återuppliva och vidar
 
 Jag själv kommer från JavaScript-världen och är van att installera saker via [npm](https://www.npmjs.com/). Lua har något liknande vid namn [LuaRocks](https://luarocks.org/) men jag har själv inte använt det.
 
-Oftast står det i readme:n för biblioteket hur det ska installeras. Jag brukar oftast skapa en mapp i rooten av projeket vid namn `lib`. Där brukar jag sen antingen direkt kopiera `lua`-filen. Om inte det duger så brukar jag använda mig av [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). 
+Oftast står det i `README`:n för biblioteket hur det ska installeras. Jag brukar oftast skapa en mapp i rooten av projeket vid namn `lib`. Där brukar jag sen antingen direkt kopiera `lua`-filen. Om inte det duger så brukar jag använda mig av [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). 
 
 En tl;dr av Submodules, jag vill installera paketet `https://github.com/fake/paket` till min mapp `lib`:
 ```
